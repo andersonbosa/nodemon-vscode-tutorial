@@ -1,0 +1,26 @@
+{
+  "name": "nodemon-vscode-tutorial",
+  "version": "1.0.0",
+  "description": "sample app to demonstrate nodemon integrated with vscode debugger",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonbosa/nodemon-vscode-tutorial.git"
+  },
+  "keywords": [
+    "nodemon",
+    "vscode",
+    "debugger"
+  ],
+  "author": "anderson bosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonbosa/nodemon-vscode-tutorial/issues"
+  },
+  "homepage": "https://github.com/andersonbosa/nodemon-vscode-tutorial#readme",
+  "scripts": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
