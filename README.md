@@ -66,4 +66,4 @@ This project is under the MIT [license](./LICENSE.md).
 </details>
 
 
-[post]: https://sample
+[post]: https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa
