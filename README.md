@@ -1,6 +1,6 @@
 <section align="center">
 
-  <img src="docs/banner.svg" title="Project banner" alt="Project banner" />
+  <img src="./docs/banner.svg" title="Project banner" alt="Project banner" />
 
   <!-- badges -->
 
