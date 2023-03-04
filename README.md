@@ -69,7 +69,7 @@ This project is under the MIT [license](./LICENSE.md).
 ---
 
 <h4>  
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/dothub?style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/nodemon-vscode-tutorial?style=social">
   | Did you like the repository? Give it a star! 😁
 </h4>
 
