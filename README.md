@@ -48,7 +48,7 @@ This repository shows how to integrate the nodemon tool with the VSCode Debugger
 
 This project is under the MIT [license](./LICENSE.md).
 
-<details open>
+<details>
   <summary>
     <h2 id="statistics">📊 Statistics </h2>
   </summary>
@@ -65,5 +65,12 @@ This project is under the MIT [license](./LICENSE.md).
 
 </details>
 
+
+---
+
+<h4>  
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/dothub?style=social">
+  | Did you like the repository? Give it a star! 😁
+</h4>
 
 [post]: https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa
