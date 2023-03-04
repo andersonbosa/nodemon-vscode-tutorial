@@ -21,7 +21,7 @@
 
 <h2 id="about">💬 About</h2>
 
-This repository shows how to integrate the nodemon tool with the VSCode Debugger. For more details, see the [post][post].
+This repository shows how to integrate the nodemon tool with the VSCode Debugger. For more details, see my https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa
 
 <h2 id="technologies"> 🛠️ Technologies</h2>
 
@@ -73,4 +73,4 @@ This project is under the MIT [license](./LICENSE.md).
   | Did you like the repository? Give it a star! 😁
 </h4>
 
-[post]: https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa
+
